@@ -11,3 +11,4 @@
 
 ## Используемые библиотеки и инструменты
 *Python, SQLAlchemy, PostgreSQL, Tableau, продуктовые метрики, построение дашбордов*
+[Ссылка на дашборд](https://public.tableau.com/app/profile/nikolay3514/viz/ProjectYandex_Praktikum_16595966680090/Dashboard1?publish=yes)
