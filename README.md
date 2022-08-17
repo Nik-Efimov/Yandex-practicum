@@ -1,7 +1,6 @@
-# Yandex-practicum
-Data analytics projects of the Yandex-Practicum course.
+# Учебные проекты
 
-These projects were completed while studying at Yandex.Practicum, profession "Data Analyst".
+Эти проекты были выполнены во время обучения в Яндекс Практикуме по специальности "Аналитик данных".
 | № project | Name project | Description | Skills and tools  |
 |  :-      | :---   | :- | :- |
 | 1 | [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/Nik-Efimov/Yandex-practicum/tree/main/project%20№1) |На основе статистики о платёжеспособности клиентов в ходе проекте определено влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок| *Предобработка данных, Python, Pandas* |
