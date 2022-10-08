@@ -1,6 +1,6 @@
 # Выпускной проект. Часть 2 - Построение дашборда в **Tableau**
 
-## Ссылка на дашборд -  https://public.tableau.com/app/profile/nikolay3514/viz/bank_churn_16629885672070/Dashboard1?publish=yes
+### Ссылка на дашборд -  https://public.tableau.com/app/profile/nikolay3514/viz/bank_churn_16629885672070/Dashboard1?publish=yes
 
 
 ## Данные
